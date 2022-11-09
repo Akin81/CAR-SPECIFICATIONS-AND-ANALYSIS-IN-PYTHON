@@ -1,5 +1,7 @@
 # CAR-SPACIFICATIONS AND ANALYSIS-IN-PYTHON
 The dataset for this analysis was collected from kaggle.com .It comprises of car speficications, model,origin ,relevance across Asia and Europe. this is to understane the relevance and demand of each model across the  said region.
+
+
 DATA CLEANING AND EVALUATION  
 
 Data cleaning believed to be the most important part of data analysis. To avoid garbage in garbage out. dataset must be thoroughly cleaned to avoid inconsistency and errors in decision making. as a result, the following cleaning steps were carried out on the dataset with the use of Pandas library.
