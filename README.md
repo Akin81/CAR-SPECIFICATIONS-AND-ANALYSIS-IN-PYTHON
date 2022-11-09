@@ -12,6 +12,9 @@ INSIGHTS
 
 
 the dataset reveal the following facts:
+
 a) The value count indicate that Toyota have the highest demand acrros the Europe and Asia.
-Chvrolet and Mercedes benz occupies the second and third position.
+
+
+b) Chvrolet and Mercedes benz occupies the second and third position.
 Lastly, this analysis shows that Toyota continues to dominate the car sales and demand across Asia and Europe
