@@ -1,4 +1,4 @@
-# CAR-SPACIFICATIONS-ANALYSIS-IN-PYTHON
+# CAR-SPACIFICATIONS AND ANALYSIS-IN-PYTHON
 The dataset for this analysis was collected from kaggle.com .It comprises of car speficications, model,origin ,relevance across Asia and Europe. this is to understane the relevance and demand of each model across the  said region.
 DATA CLEANING AND EVALUATION  
 
