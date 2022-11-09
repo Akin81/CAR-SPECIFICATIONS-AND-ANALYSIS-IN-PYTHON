@@ -8,4 +8,6 @@ After checking the dataset info, description, shape and all. the null value was 
 
 INSIGHTS
 the dataset reveal the following facts:
-a) the value count indicate that Toyota have the highest demand acrros the Europe and Asia, followed by
+a) The value count indicate that Toyota have the highest demand acrros the Europe and Asia.
+Chvrolet and Mercedes benz occupies the second and third position.
+Lastly, this analysis shows that Toyota continues to dominate the car sales and demand across Asia and Europe
