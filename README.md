@@ -6,9 +6,11 @@ DATA CLEANING AND EVALUATION
 
 Data cleaning believed to be the most important part of data analysis in order to avoid garbage in garbage out. dataset must be thoroughly cleaned to avoid inconsistency and errors in decision making. as a result, the following cleaning steps were carried out on the dataset with the use of Pandas library.
 
-After checking the dataset info, description, shape and all. the null value was checked to ascertain the number of missing values and what to do correct it. Using isnull().sum shows a couple missing values, which were replaced by the isnai().mean to carry out further analysis.
+After checking the dataset info, description, shape and all. I checked the null values to ascertain the number of missing values and what to do correct it. Using isnull().sum shows a couple missing values, which were replaced by the isnai().mean to carry out further analysis.
 
 INSIGHTS
+
+
 the dataset reveal the following facts:
 a) The value count indicate that Toyota have the highest demand acrros the Europe and Asia.
 Chvrolet and Mercedes benz occupies the second and third position.
